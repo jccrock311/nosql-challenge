@@ -1,4 +1,4 @@
-# nosql-challenge - Assignment #9 for the SMU Data Analytics Boot Camp (2023)
+# nosql-challenge - Assignment #10 for the SMU Data Analytics Boot Camp (2023)
 
 Download the following [file](https://static.bc-edx.com/data/dl-1-2/m12/lms/starter/Starter_Code.zip) to help you get started.
 
